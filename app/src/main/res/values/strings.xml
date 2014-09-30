@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Car</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="load_data_base">Подготовка базы данных…</string>
+    <string name="select_make">Выберите производителя</string>
+    <string name="selected">Выбрано: </string>
+    <string name="base_param">Основные параметры</string>
+    <string name="select_car_model">Выберите модель</string>
+    <string name="select_car_year">Выберите год</string>
+    <string-array name="name_column">
+
+
+
+        <!--ОБЩИЕ-->
+        <!--Make-->
+        <item>Производитель</item>
+        <!--Car_Country_of_origin-->
+        <item>Происхождение</item>
+        <!--Model-->
+        <item>Модель</item>
+        <!--Year-->
+        <item>Год начала выпуска</item>
+        <!--Car_Category-->
+        <item>Категория</item>
+        <!--Car_doors-->
+        <item>Кол. дверей</item>
+        <!--Car_Seats-->
+        <item>Кол. сидений</item>
+        <!--Car_Cargo_space-->
+        <item>Грузовое пространство</item>
+        <!--Car_Weight-->
+        <item>Свободное пространство</item>
+        <!--Car_Towing_weight-->
+        <item>Вес</item>
+        <!--Car_Max_weight_with_load-->
+        <item>Max. вес с загрузкой</item>
+        <!--Car_Passenger_space-->
+        <item>Буксируемый вес</item>
+
+        <!--ДВИГАТЕЛЬ-->
+        <!--Car_Engine-->
+        <item>Рабочий объём</item>
+        <!--Car_Max_power-->
+        <item>Мощность</item>
+        <!--Car_Max_torque-->
+        <item>Крутящий момент</item>
+        <!--Car_Engine_position-->
+        <item>Расположение двигателя</item>
+        <!--Car_Engine_type-->
+        <item>Расположение / число цилиндров</item>
+        <!--Car_Valves_per_cylinder-->
+        <item>Число клапанов на цилиндр</item>
+        <!--Car_Bore_stroke-->
+        <item>Ход поршня</item>
+        <!--Car_Compression-->
+        <item>Компрессия</item>
+        <!--0_100_km_h_0_62_mph-->
+        <item>Время разгона до 100км/ч</item>
+        <!--Car_Top_speed-->
+        <item>Max. Скорость</item>
+        <!--Car_Cooling-->
+        <item>Охлаждение</item>
+        <!--Car_Lubrication-->
+        <item>Смазка</item>
+
+        <!--РАЗМЕРЫ-->
+        <!--Car_total_length-->
+        <item>Длина</item>
+        <!--Car_total_width-->
+        <item>Ширина</item>
+        <!--Car_total_height-->
+        <item>Высота</item>
+        <!--Car_Wheelbase-->
+        <item>Колесная база</item>
+        <!--Car_Ground_clearance-->
+        <item>Дорожный просвет</item>
+
+        <!--ПОДВЕСКА-->
+        <!--Car_Front_tire-->
+        <item>Передние шины</item>
+        <!--Car_Rear_tire-->
+        <item>Задние шины</item>
+        <!--Car_Chassis-->
+        <item>Шасси</item>
+
+        <!--РУЛЕВОЕ УПРАВЛЕНИЕ-->
+        <!--Car_Turn_circle-->
+        <item>Радиус разворота</item>
+
+        <!--ТРАНСМИСИЯ-->
+        <!--Car_Drive-->
+        <item>Привод</item>
+        <!--Car_Transmission-->
+        <item>Коробка передач/кол передач</item>
+
+        <!--РАСХОД ТОПЛИВА-->
+        <!--Car_Fuel_with_city_drive-->
+        <item>Городской цикл</item>
+        <!--Car_Fuel_with_highway_drive-->
+        <item>Загородный цикл</item>
+        <!--Car Fuel with mixed drive-->
+        <item>Смешанный цикл</item>
+        <!--Car_Fuel_tank_capacity-->
+        <item>Объём топливного бака</item>
+        <!--Car_Fuel-->
+        <item>Вид топлива</item>
+
+        <!--ТОРМОЗНАЯ СИСТЕМА-->
+        <!--Car_Front_brakes_type-->
+        <item>Тип передних тормозов</item>
+        <!--Car_Rear_brakes_type-->
+        <item>Тип задних тормозов</item>
+
+
+        <!--ДРУГИЕ ПОКАЗАТЕЛИ-->
+        <!--Car_CO2_emissions-->
+        <item>CO2</item>
+        <!--Car_Aerodynamic_dragcoefisient-->
+        <item>Коэффициент аэродинамического сопротивления</item>
+        <!--Car_Power_per_weight-->
+        <item>Соотношение мощности к весу</item>
+        <!--Car_front_Leg_room-->
+        <item>Место для ног</item>
+
+
+    </string-array>
+
+</resources>
+
+
